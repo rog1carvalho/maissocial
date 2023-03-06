@@ -1,0 +1,1 @@
+alter table jovens add senha varchar(10)not null;

@@ -1,0 +1,1 @@
+alter table jovens add telefone varchar(20)not null;

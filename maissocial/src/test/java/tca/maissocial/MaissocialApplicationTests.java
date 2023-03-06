@@ -1,0 +1,13 @@
+package tca.maissocial;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MaissocialApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
