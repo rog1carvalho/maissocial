@@ -6,6 +6,4 @@ import java.util.List;
 
 public interface JovemRepository extends JpaRepository<Jovem,Long> {
     UserDetails findByEmail(String email);
-    List<Jovem> findByall();
-    Jovem findByNome (int nome);
 }
